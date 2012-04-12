@@ -1,0 +1,30 @@
+{
+  "author": "Gavin Uhma",
+  "name": "terminator",
+  "description": "SSL termination in node.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gavinuhma/node-ssl-terminator",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gavinuhma/node-ssl-terminator.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "ssl",
+    "tls",
+    "https",
+    "termination",
+    "terminator",
+    "tunnel",
+    "proxy",
+    "tcp",
+    "encryption",
+    "stud",
+    "stunnel",
+    "pound",
+    "secure"
+  ],
+  "main": "index",
+}
